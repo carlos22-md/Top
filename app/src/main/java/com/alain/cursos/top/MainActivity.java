@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements OnItemClickListen
     }
 
     private void generateArtist() {
-        String[] nombres = {"Rachel", "Mary Elizabeth", "Jessica", "Gal"};
+        String[] nombres = {"Raquel", "Mary Elizabeth", "Jessica", "Gal"};
         String[] apellidos = {"McAdams", "Winstead", "Chastain", "Gadot"};
         long[] nacimientos = {280108800000L, 470469600000L, 228031200000L, 483667200000L};
         String[] lugares = {"Canada", "USA", "USA", "Israel"};
